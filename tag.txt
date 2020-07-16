@@ -1,0 +1,6 @@
+<?php if ($ paginado <2) {
+<p> Texto para la primera página del archivo de etiquetas. </p>
+<? php} más { 
+<p> Texto para las páginas siguientes de la etiqueta.
+Se puede dejar fuera. </p>
+<? php} ?>
